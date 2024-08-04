@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "f7f96a518fa327f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccb9e2e8021ef655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b76b089bc66ee80a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Facing/Welcome To Nebeskáříše.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0991e9d6032060ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a380381ec360e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "975077fe279f1b85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71eb5f9e70b9f044",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f320554aca356c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17dd4236212853fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f11da181c8cd045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea441fcc88147b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Player Facing/Welcome To Nebeskáříše.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9171b3a4f20dba5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Player Facing/Welcome To Nebeskáříše.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e3853461ddb7d00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56f073e6fe765989",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Player Facing/Welcome To Nebeskáříše.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "b76b089bc66ee80a",
+  "lastOpenFiles": [
+    "Player Facing/Welcome To Nebeskáříše.md",
+    "Player Facing/HAVEN/Marrouhlan.md",
+    "Open Lore/Untitled.md",
+    "Player Facing/HAVEN",
+    "Untitled.md",
+    "Open Lore/Untitled.canvas",
+    "Welcome.md",
+    "Player Facing"
+  ]
+}
