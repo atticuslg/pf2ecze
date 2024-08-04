@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Facing/Welcome To Nebeskáříše.md",
+                "file": "Public/Welcome To Nebeskáříše.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Facing/Welcome To Nebeskáříše.md",
+                "file": "Public/Welcome To Nebeskáříše.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Facing/Welcome To Nebeskáříše.md",
+                "file": "Public/Welcome To Nebeskáříše.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Facing/Welcome To Nebeskáříše.md"
+                "file": "Public/Welcome To Nebeskáříše.md"
               }
             }
           }
@@ -144,18 +144,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "b76b089bc66ee80a",
   "lastOpenFiles": [
-    "Player Facing/Welcome To Nebeskáříše.md",
-    "Player Facing/HAVEN/Marrouhlan.md",
+    "Public/HAVEN/Marrouhlan.md",
+    "Public/Welcome To Nebeskáříše.md",
+    "Public/HAVEN/Untitled",
     "Open Lore/Untitled.md",
-    "Player Facing/HAVEN",
+    "Public/HAVEN",
     "Untitled.md",
     "Open Lore/Untitled.canvas",
     "Welcome.md",
-    "Player Facing"
+    "Public"
   ]
 }
