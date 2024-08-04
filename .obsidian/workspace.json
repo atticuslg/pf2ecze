@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6381425a07ef3059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "23888e9a3657ec83",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Welcome To Nebeskáříše.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Welcome To Nebeskáříše.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Welcome To Nebeskáříše.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,15 +172,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b76b089bc66ee80a",
+  "active": "6381425a07ef3059",
   "lastOpenFiles": [
+    "Public/Welcome To Nebeskáříše.md",
+    "README.md",
     "_config.yml",
     "Public/HAVEN/Marrouhlan.md",
-    "Public/Welcome To Nebeskáříše.md",
     "Public/HAVEN/Untitled",
     "Open Lore/Untitled.md",
     "Public/HAVEN",
-    "Untitled.md",
     "Open Lore/Untitled.canvas",
     "Welcome.md",
     "Public"
