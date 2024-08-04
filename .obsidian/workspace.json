@@ -144,8 +144,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "b76b089bc66ee80a",
